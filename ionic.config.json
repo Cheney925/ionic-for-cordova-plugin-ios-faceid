@@ -1,0 +1,8 @@
+{
+  "name": "faceid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "fe699786"
+}
